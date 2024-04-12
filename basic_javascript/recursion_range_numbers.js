@@ -13,3 +13,6 @@ function rangeOfNumbers(startNum, endNum) {
   }
   
 }
+
+
+module.exports = rangeOfNumbers;
